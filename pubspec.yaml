@@ -21,10 +21,10 @@ dependencies:
   win32: ^5.0.7
   ffi: ^2.1.0
   flutter_usb_printer:      
-    git:
-      url: https://github.com/chris199990/flutter_usb_printer
-      ref: master
-  # ^0.1.0
+    git: ^0.1.0
+      #url: https://github.com/chris199990/flutter_usb_printer
+      #ref: master
+ 
 
 dev_dependencies:
   flutter_test:
