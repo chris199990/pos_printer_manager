@@ -22,7 +22,7 @@ dependencies:
   ffi: ^2.1.0
   flutter_usb_printer:      
     git:
-      url: https://github.com/chris199990/pos_printer_manager
+      url: https://github.com/chris199990/flutter_usb_printer
       ref: master
   # ^0.1.0
 
